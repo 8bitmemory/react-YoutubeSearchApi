@@ -1,25 +1,25 @@
-# ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+react-YoutubeSearchApi
+
+This is a ui that mimics youtube search layout. This app uses the youtube api to search for queries determined by an input change in the search bar.
+
 
 ### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+To run this project you must clone the repo and intall the dependencies 
+with teh following commands
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/8bitmemory/react-YoutubeSearchApi.git
+> cd react-YoutubeSearchApi
 > npm install
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 > npm install
 > npm start
 ```
+### API key
+To obtain full functionality, you must go to developer.google.com to 
+get your you tube API key and instert it in the app.js file where indicated.
