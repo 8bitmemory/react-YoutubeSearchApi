@@ -7,7 +7,7 @@ import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
 
-const API_KEY = 'AIzaSyBqc4kabmMni1F0c4sFd6_GX1B7Cc-gsMQ';
+const API_KEY = '##### you key goes here #######';
 
 class App extends React.Component {
     constructor (props){
